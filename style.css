@@ -1,4 +1,16 @@
+:root {
+  --black: #2d2e2e;
+  --dark-green: #3A4F39;
+  --grey: #ABABAB;
+  --light-grey: #F6F6F6;
+  --white: #FFFFFF;
+  --light-green: #EFF6F3;
+  --yellow: #F8D254;
+  --green: #A0CD9E;
+}
+
 html {
   height: 100%;
   width: 100%;
 }
+
