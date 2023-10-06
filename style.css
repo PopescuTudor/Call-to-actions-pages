@@ -7,6 +7,15 @@
   --light-green: #EFF6F3;
   --yellow: #F8D254;
   --green: #A0CD9E;
+
+  color: #000;
+
+  /* Text default */
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 html {
@@ -14,3 +23,27 @@ html {
   width: 100%;
 }
 
+h1 {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.menu-title {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+b,
+strong {
+  font-weight: 600;
+}
+
+.caption {
+  font-size: 12px;
+  font-weight: 400;
+}
+
+button {
+  font-size: 18px;
+  font-weight: 500;
+}
