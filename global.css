@@ -34,9 +34,14 @@ html {
   /* background: var(--background-url) no-repeat center center fixed; */
 }
 
+h1, p {
+  margin: 0;
+}
+
 body {
   margin: 0;
 }
+
 
 /* stilul h1 definit  */
 h1 {
